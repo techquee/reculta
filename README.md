@@ -1,7 +1,13 @@
 # reculta
 Features of the Project:
 
-- Github OAuth Authentication
+- Github OAuth Authentication with:
+  - Loaders while the login api is authenticating and fetching files and token
+  - styling with reactstrap and css 
+  - Login and Logout
+  - querying to fetch the users repositories
+  - React Apollo to interact with Github GraphQL API
+  - display Activities
 - Github Api calls using fetch in React to display for **Profile section**:
   - Username
   - No. of followers
@@ -18,7 +24,8 @@ Features of the Project:
   - name of starred repositories of authenticated user
   - full name
   - name of owner
-   
+- List of repositories to star them
+
 ## Fetching the authenticated user repository
 
 ![Image](https://raw.githubusercontent.com/techquee/reculta/master/images/image%20(1).png)
