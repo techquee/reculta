@@ -4,6 +4,7 @@ Features of the Project:
 - Github OAuth Authentication with:
   - Loaders while the login api is authenticating and fetching files and token
   - styling with reactstrap and css 
+  - react routing
   - Login and Logout
   - querying to fetch the users repositories
   - React Apollo to interact with Github GraphQL API
