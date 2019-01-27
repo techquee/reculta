@@ -1,7 +1,7 @@
 # reculta
 
 ![Image](
-        reculta/images/image (1).png
+        https://raw.githubusercontent.com/techquee/reculta/master/images/image%20(1).png
       )
-![Image](https://raw.githubusercontent.com/techquee/tensorflow_object_detection/master/Screenshot%20(11).png)
-![Image](https://raw.githubusercontent.com/techquee/tensorflow_object_detection/master/Screenshot%20(11).png)
+![Image](https://raw.githubusercontent.com/techquee/reculta/master/images/image%20(2).png)
+![Image](https://raw.githubusercontent.com/techquee/reculta/master/images/image.png)
