@@ -1,19 +1,19 @@
 # reculta
 Features of the Project:
 
-1. Github OAuth Authentication
-2. Github Api calls using fetch in React to display for **Profile section**:
- -Username
- -No. of followers
- -No. of following
- -Bio
- -No. of public repositories
- -avatar_url aka profile picture of github user
-3. Github Api calls using fetch in React to display for **Repo section**:
- -name of repositories of authenticated user
- -full name
- -id
- -Activity
+- Github OAuth Authentication
+- Github Api calls using fetch in React to display for **Profile section**:
+  - Username
+  - No. of followers
+  - No. of following
+  - Bio
+  - No. of public repositories
+  - avatar_url aka profile picture of github user
+- Github Api calls using fetch in React to display for **Repo section**:
+  - name of repositories of authenticated user
+  - full name
+  - id
+  - Activity
 - Github Api calls using fetch in React to display for **Starred section**:
   - name of starred repositories of authenticated user
   - full name
