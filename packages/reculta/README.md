@@ -1,3 +1,2 @@
-# GitStar
+# Reculta
 
-Spread your love to Open Source.
