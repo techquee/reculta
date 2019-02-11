@@ -27,6 +27,15 @@ Features of the Project:
   - name of owner
 - List of repositories to star them
 
+## To run
+- cd packages
+- cd reculta
+- npm start
+- Voila! Open http://localhost:3001/#/
+
+## Issues
+fetching on same home-page.
+
 ## Fetching the authenticated user repository
 
 ![Image](https://raw.githubusercontent.com/techquee/reculta/master/images/image%20(1).png)
