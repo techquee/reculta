@@ -31,7 +31,8 @@ Features of the Project:
 After cloning
 - cd packages
 - cd reculta
-- npm start
+- yarn
+- yarn start
 - Voila! Open http://localhost:3001/#/
 
 ## Issues
