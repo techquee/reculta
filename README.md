@@ -32,7 +32,8 @@ After cloning
 - cd packages
 - cd reculta
 - yarn
-- yarn start
+- npm i react-router-dom (if required)
+- yarn start 
 - Voila! Open http://localhost:3001/#/
 
 ## Issues
