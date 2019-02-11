@@ -28,6 +28,7 @@ Features of the Project:
 - List of repositories to star them
 
 ## To run
+After cloning
 - cd packages
 - cd reculta
 - npm start
